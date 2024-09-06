@@ -3,6 +3,9 @@
 ¡Hola! 👋 Este repositorio contiene todos los ejercicios y proyectos que hice durante mi curso de programación y desarrolo web de la unidad 3.
 Aquí encontraras mis avances y ejercicios realizados en clase. 🖥️🚀
 
+
+![Nana komatsu ](https://gifdb.com/images/high/nana-anime-laughing-nana-komatsu-eating-blezu8z6bc1hgw4t.gif)
+
 ## 🗂️ Contenido del Repositorio
 
 - **Ejercicios Básicos**: Problemas y prácticas para afianzar conceptos básicos.
@@ -34,7 +37,15 @@ El objetivo de este proyecto es **interactuar con una API externa** para obtener
 
 - **URL de la API**: [Api Naruto](https://narutodb.xyz/)
 
----
+### 🛠️ Tecnologías Utilizadas
+
+- **HTML**: Para la estructura de la página web.
+- **CSS**: Para el diseño y estilo visual.
+- **JavaScript**: Para la funcionalidad y manipulación del DOM.
+- **jQuery**: (Si se usó) Para simplificar la manipulación del DOM y las peticiones AJAX.
+- **JSON**: Para manejar los datos obtenidos de la API.
+
+----
 
 ¡Gracias por visitar mi repositorio! 🎉
 Fin de mi comunicado por ahora...
