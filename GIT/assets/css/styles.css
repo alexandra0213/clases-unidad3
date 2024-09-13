@@ -3,11 +3,11 @@
 
 body{
     font-family: "Playwrite PE", cursive;
-    background-image: url("https://images3.alphacoders.com/232/thumb-350-232497.webp");
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
+    color: rosybrown;
+    text-align: center;
+    background-color: white;
+}
+.nana{
+    height: 10%;
+    width: 10%;
 }
