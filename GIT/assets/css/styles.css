@@ -11,3 +11,13 @@ body{
     height: 10%;
     width: 10%;
 }
+h1{
+    font-size: large;
+}
+p{
+    color: black;
+}
+.nanas{
+    height: 25%;
+    width: 40%;
+}
