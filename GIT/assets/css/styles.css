@@ -1,0 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Playwrite+PE:wght@100..400&display=swap');
+
+body{
+    font-family: "Playwrite PE", cursive;
+    background-image: url("https://images3.alphacoders.com/232/thumb-350-232497.webp");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
